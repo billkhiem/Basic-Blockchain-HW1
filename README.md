@@ -8,6 +8,21 @@
 
 <br>
 
+#### How to run programme
+a. Server:
+```shell
+1. Go to backend: cd ./back-end
+2. Install packages and dependencies: npm install
+3. Run server: npm start
+```
+
+b. Client:
+```shell
+1. Go to client: cd ./front-end/e-wallet
+2. Install packages and dependencies: npm install
+3. Run client: npm start
+```
+
 #### Reference: 
 - Blockchain Javascript tutorial: https://www.youtube.com/playlist?list=PLzvRQMJ9HDiTqZmbtFisdXFxul5k0F-Q4
 - Backend APIs:
